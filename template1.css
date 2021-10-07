@@ -459,7 +459,7 @@ span{
                                                         width:100%;
                                                     }
                                                     .images{
-                                                        grid-template-columns:auto ;
+                                                        grid-template-columns:auto;
                                                     }
                                                     .content{
                                                      grid-template-columns:auto;

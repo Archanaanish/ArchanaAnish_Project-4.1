@@ -462,13 +462,13 @@ span{
                                                         grid-template-columns:auto auto auto;
                                                     }
                                                     .content{
-                                                     grid-template-columns:25% 25% 50%;
+                                                     grid-template-columns:auto;
                                                     }
                                                     .content img{
                                                         width: 90%;
                                                     }
                                                     .context{
-                                                        grid-template-columns:70% 30%;
+                                                        grid-template-columns:auto;
                                                     }
                                                     .section8{
                                                        
@@ -479,18 +479,19 @@ span{
                                                         margin-top: 8%;
                                                     }
                                                     .bars{
-                                                     grid-template-columns: auto auto auto;
+                                                     grid-template-columns: auto ;
+                                                      row-gap:2%;
                                                     
                                                     }
                                                    
                                                     .context{
-                                                     grid-template-columns: auto auto auto;
+                                                     grid-template-columns: auto ;
                                                     }
                                                     .port, .folio{
-                                                     grid-template-columns: auto auto auto ; 
+                                                     grid-template-columns: auto ; 
                                                     }
                                                     .form{
-                                                     grid-template-columns: auto auto auto;
+                                                     grid-template-columns: auto ;
                                                      column-gap:1%;
                                                     }
                                                      #btn3{
